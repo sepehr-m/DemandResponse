@@ -1,2 +1,2 @@
-# DemandResponse
-Various DRL approaches to Demand Response
+# DRL for Demand Response
+This repo implements various Reinforcement Learning-based approaches to demand response.
